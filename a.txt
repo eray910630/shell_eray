@@ -1,0 +1,7 @@
+total 44
+-rwxr-xr-x 1 eray eray 13948 oct 21 06:19 a.out
+-rw-r--r-- 1 eray eray     0 oct 21 06:19 a.txt
+-rw-rw-rw- 1 eray eray   286 oct 13 10:48 pipe.c
+-rwxrwxrwx 1 eray eray  8551 oct  5 07:50 shell
+-rw-rw-rw- 1 eray eray  6747 oct 16 06:41 shell.c
+-rw-r--r-- 1 eray eray  1920 oct 15 22:02 shell.c.tar.gz
